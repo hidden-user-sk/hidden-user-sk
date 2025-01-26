@@ -28,7 +28,7 @@
                 </p>
                 <details>
                 <hr>
-    <a href="https://github.com/hiddenuser-sk">
+    <a href="https://github.com/hidden-user-sk">
   <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
@@ -36,7 +36,7 @@
   <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
 </p>
  <summary><h4>💻Wanna see some cool stuff??⬇️</h4></summary>
-    <a href="https://github.com/hiddenuser-sk">
+    <a href="https://github.com/hidden-user-sk">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/hiddenuser-sk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
         <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/hiddenuser-sk?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
@@ -58,12 +58,12 @@
         ctrl + c<br>
         ctrl+v
 <p align="center">
-  <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
+  <i>&copy; <a href="https://github.com/hidden-user-sk/">Subodh </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
-  <img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /><br>
+   <a href="https://github.com/hiddenuser-sk"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /><br></a>
   <kbd>Thanks for visiting :)</kbd>
     <p align="center">
-  <a href="https://github.com/hiddenuser-sk">See ya <3</a>
+  <a href="https://github.com/hidden-user-sk">See ya <3</a>
 </p>
 </p>
 
