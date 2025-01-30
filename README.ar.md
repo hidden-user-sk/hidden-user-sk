@@ -6,30 +6,20 @@
 
 <h1>👋 - مرحباً أيها الزائر</h1>
 ***
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=ألق+نظرة+حولك;كل شيء عديم الفائدة;Thank+you+for+being+here.">
-***
-
-<!--
-[![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
-[![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
-[![✨ Generate Contribution Pattern](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/contributions.yml)
-[![🐍 Generate Snake Contribution](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/snake.yml)
-[![🚢 Automated Docker Testing](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/dind.yml)
-[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=ألق+نظرة+حولك;كل+شيء+عديم+الفائدة;شكرا+لكونك+هنا.">
 
 <p align="center" style="margin-top: 20px">
   <p align="center">
   <br>
     <strong> 
     ·
-    <a><code>English</code></a>
+    <a><code>عربي</code></a>
     ·
     <a href="README.es.md">Española</a>
     ·
     <a href="README.fr.md">Français</a>
     ·
-    <a href="README.ar.md">عربي</a>
+    <a href="README.md">ENglish</a>
     ·
     <a href="README.de.md">Deutsch</a>
     ·
@@ -45,12 +35,17 @@
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
 
 <details>
-  <summary><h3>✨ About Me &rarr;</h3></summary>
+  <summary><h3>✨ ْعَنِّيْعَنِّي &rarr;</h3></summary>
    
-## 💫 About Me:
-
-🔭_الكمال ليس هو الهدف_.<br>🧑‍💻 أحب كتابة الكمبيوتر`code`.<br>🤝 أنا أبحث عن مساعدة في الخادم الخاص بي.<br>✨ العيش داخل`terminal`.<br>🌱 أنا أتعلم بعضًا حاليًا_مقرف_أشياء.<br>💬 اسألني عن لا شيء.<br>👌 أنا أحترم وقتي.<br>⚡ حقيقة ممتعة: لا متعة ، رمز فقط.<br>💥 استمر في التحرك وستتغلب على يوم واحد.<br>📧_سوف تجد طريقة_.
-
+## 💫  ْعَنِّيْعَنِّي:
+🔭 الكمال ليس هو الهدف.<Br>
+👋 مرحبًا، أنا سوبود<Br>
+👀 أحب كتابة كود الكمبيوتر.<Br>
+🌱 أتعلم حاليًا لغة بايثون<Br>
+💞️ أتطلع للتعاون في جيثب<Br>
+📫 كيف تصل إلي - Br>nullptr>  
+⚡ حقيقة ممتعة: لا أعرف لغة <br>
+❝كلمة المرور لضوابط الكمبيوتر للصواريخ ذات الرؤوس النووية للولايات المتحدة كانت 00000000 لمدة ثماني سنوات.❞<br>
 <!--STARTS_HERE_QUOTE_README-->
 
 <i>❝ "البرنامج يشبه الانتروبيا: من الصعب فهمه ، ولا يزن شيئًا ، ويطيع القانون الثاني للديناميكا الحرارية ؛ على سبيل المثال ، يزداد دائمًا. " - نورمان أوغسطين ❞</i>
@@ -59,47 +54,13 @@
 
 * * *
 
-<h3 align="left" title="...and I'm happy to see you here :)">🧑‍💻 Languages and Tools: </h3>
+<h3 align="left" title=".. وأنا سعيد لرؤيتك هنا:)">🧑‍💻اللغات والأدوات:</h3>
     <p align="left">
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
-        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a>
-        <a href="https://docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-        <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/php/php-original.svg" alt="php" width="40" height="40" /> </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
-        <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
-    </p>
+   </p>
 </details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
