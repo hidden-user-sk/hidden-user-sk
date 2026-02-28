@@ -17,12 +17,6 @@ I am a passionate coder and programmer, specializing in **creative coding** and 
 
 ---
 
-## 🌟 Featured Project
-
-<strong>None</Strong>
-### Under Progress
----
-
 ## 👾 Fun Facts
 
 - I think of code as my digital playground 🛝
